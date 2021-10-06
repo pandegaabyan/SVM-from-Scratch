@@ -1,5 +1,5 @@
 # Project AI - Breast Cancer Classification using SVM from Scratch
-### Pandega Abyan Zumarsyah - 18/424977/TK/46672
+### Pandega Abyan Zumarsyah
 
 Pada project ini, saya melakukan klasifikasi tipe Breast Cancer menggunakan SVM (Support Vector Machine). SVM dipilih karena sangat terkenal dan performanya cukup bagus. Selain itu, saya pribadi juga ingin belajar lebih terkait SVM ini. Sementara itu, data terkait Breast Cancer didapatkan dari kaggle dengan nama Breast Cancer Wisconsin. 
 

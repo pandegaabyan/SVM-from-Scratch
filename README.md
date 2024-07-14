@@ -1,5 +1,4 @@
-# Project AI - Breast Cancer Classification using SVM from Scratch
-### Pandega Abyan Zumarsyah
+# Breast Cancer Classification using SVM from Scratch
 
 The Breast Cancer data was sourced from Kaggle under the name Breast Cancer Wisconsin. The dataset consists of two classes: Benign and Malignant. It includes 30 features such as radius_mean, texture_mean, radius_worst, and radius_se. Initially, feature selection was performed based on the cross-correlation values between each feature. Subsequently, the data was split into training and testing sets.
 
